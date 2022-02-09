@@ -1,1 +1,1 @@
-web: vendor/bin/heroku-php-nginx public/
+web: npm install api && node api/src/app.js
