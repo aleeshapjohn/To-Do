@@ -1,1 +1,1 @@
-web: ./bin/www npm start
+web: vendor/bin/heroku-php-nginx public/
