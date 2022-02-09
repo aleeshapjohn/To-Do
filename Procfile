@@ -1,2 +1,1 @@
-web: node app.js
-worker: php artisan migrate
+web: ./bin/www npm start
